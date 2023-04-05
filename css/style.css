@@ -13,3 +13,8 @@
 #project {
   padding: 5rem 1rem;
 }
+
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+}

@@ -1,1 +1,1 @@
-Semua assets baik itu gambar musik ada di cloud
+Semua assets baik itu gambar atau musik ada di cloud
